@@ -1,0 +1,14 @@
+body {
+  padding: 1 rem;
+}
+
+.bank output {
+  border: 1px solid black;
+
+  min-height: 1rem;
+display: flex;
+flex-wrap: wrap;
+gap: 2ch;
+padding: 4ch;
+
+}
